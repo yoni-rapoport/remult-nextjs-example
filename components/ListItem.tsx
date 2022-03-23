@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 
-import { User } from '../interfaces'
+import { User } from '../common/User'
 
 type Props = {
   data: User
